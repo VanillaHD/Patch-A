@@ -1,0 +1,25 @@
+# ignore git related stuff
+.git/**
+.github/**
+.gitignore
+
+# ignore all file formats that have nothing to do in patch
+**/*.json
+**/*.yml
+**/*.yaml
+**/*.exe
+**/*.dll
+**/*.db
+**/*.csv
+**/*.png
+**/*.psd
+**/*.txt
+**/*.md
+**/*.sql
+**/*.bat
+
+.patchignore
+.gitlab-ci.yml
+Scripts/**
+Tools/**
+haax-dbc
