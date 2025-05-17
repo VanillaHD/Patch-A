@@ -6749,10 +6749,20 @@ Creature\BodyofKathune\eyereflect.blp
 Creature\BogBeast2\bogbeast2_5362533.blp
 Creature\BogBeast\bogbeast.m2
 Creature\BogBeast\bogbeast2_dark.blp
+Creature\BogBeast\bogbeast2_desert.blp
+Creature\BogBeast\bogbeast2_diseased.blp
+Creature\BogBeast\bogbeast2_green.blp
 Creature\BogBeast\bogbeast2_hair_dark.blp
+Creature\BogBeast\bogbeast2_hair_desert.blp
+Creature\BogBeast\bogbeast2_hair_diseased.blp
+Creature\BogBeast\bogbeast2_hair_green.blp
 Creature\BogBeast\bogbeast2_hair_orange.blp
+Creature\BogBeast\bogbeast2_hair_red.blp
 Creature\BogBeast\bogbeast2_orange.blp
 Creature\BogBeast\bogbeast2_plants_dark.blp
+Creature\BogBeast\bogbeast2_plants_desert.blp
+Creature\BogBeast\bogbeast2_plants_diseased.blp
+Creature\BogBeast\bogbeast2_plants_green.blp
 Creature\BogBeast\bogbeast2_plants_orange.blp
 Creature\BoneSpider2\fresnelreflection.blp
 Creature\BoneSpider\bonespider.m2
@@ -6849,6 +6859,9 @@ Creature\Chimera\chimeraskinbeige_01.blp
 Creature\Chimera\chimeraskinblue_01.blp
 Creature\Chimera\chimeraskingreen_01.blp
 Creature\CoreHound2\ArmorReflect_Rainbow.blp
+Creature\CoreHound2\corehoundglow.blp
+Creature\CoreHound2\corehoundmount.m2
+Creature\CoreHound2\corehoundmount1.blp
 Creature\CoreHound2\corehoundmount2.blp
 Creature\CoreHound2\Drip_Saliva.blp
 Creature\CoreHound2\Ember_Offset_Streak.blp
@@ -6875,6 +6888,17 @@ Creature\Crocodile\CrocodileSkinAlbino.blp
 Creature\Crocodile\CrocodileSkinMarsh.blp
 Creature\Crocodile\CrocodileSkinRiver.blp
 Creature\Crocodile\CrocodileSkinSwamp.blp
+Creature\CryptFiend2\armorreflect4.blp
+Creature\CryptFiend2\cryptfiend2_5482017.blp
+Creature\CryptFiend\cryptfiend.m2
+Creature\CryptFiend\cryptfiend2_armor_blue.blp
+Creature\CryptFiend\cryptfiend2_armor_orange.blp
+Creature\CryptFiend\cryptfiend2_armor_purple.blp
+Creature\CryptFiend\cryptfiend2_armor_red.blp
+Creature\CryptFiend\cryptfiendskin.blp
+Creature\CryptFiend\cryptfiendskinblack.blp
+Creature\CryptFiend\cryptfiendskingreen.blp
+Creature\CryptFiend\cryptfiendskinpurple.blp
 Creature\CryptLord\COCKROACH_CRYPTLORD.BLP
 Creature\CryptLord\CryptLord.M2
 Creature\CryptLord\CRYPTLORD_LOCUST64.BLP
@@ -7055,20 +7079,22 @@ Creature\Drake\companiondrake_armor_red.blp
 Creature\Drake\companiondrake_armor_white.blp
 Creature\Drake\drake.m2
 Creature\Drake\drakemount.m2
+Creature\Drake\drakemount2azure.m2
 Creature\Drake\drakeskin1.blp
 Creature\Drake\drakeskinblack1.blp
 Creature\Drake\drakeskinblue1.blp
-Creature\Drake\drakeskinbluedragonflight_01.blp
-Creature\Drake\drakeskinbluedragonflight_02.blp
 Creature\Drake\drakeskinbronze1.blp
 Creature\Drake\drakeskindiseased1.blp
 Creature\Drake\drakeskingreen1.blp
 Creature\Drake\drakeskinmottled1.blp
+Creature\Drake\DrakeSkinNexus_01.blp
+Creature\Drake\DrakeSkinNexus_02.blp
 Creature\Drake\drakeskinred1.blp
 Creature\Drake\drakeskinwhite1.blp
 Creature\Drake\twilightdrake1green.blp
 Creature\Drake\twilightdrake1purple.blp
 Creature\Drake\twilightdrake1red.blp
+Creature\DrakeMount2\armorreflect4.blp
 Creature\Dreadlord2\ArmorReflect4.blp
 Creature\Dreadlord2\Dreadlord2_Skin_01_Glow.blp
 Creature\DreadLord\DreadLord.M2
@@ -7201,6 +7227,13 @@ Creature\FelHound\Felhound.M2
 Creature\FelHound\felhoundskin.blp
 Creature\FelStalker\ArmorReflect3.blp
 Creature\FelStalker\ArmorReflect4.blp
+Creature\FireElemental2\armorreflect4.blp
+Creature\FireElemental2\caustic_soft_distortion.blp
+Creature\FireElemental2\fire_2x2_sharp_mod4x.blp
+Creature\FireElemental2\fire_bright_mod2x_a.blp
+Creature\FireElemental\fireelemental.m2
+Creature\FireElemental\fireelemental2_fx_red.blp
+Creature\FireElemental\fireelementalskin.blp
 Creature\FireElemental\GlowBall.blp
 Creature\FireHawk\T_VFX_BorderFeathers.blp
 Creature\Fleshgolem2\armorreflect_hard.blp
@@ -7293,6 +7326,10 @@ Creature\GiantSnake\arakkoa_spec1.blp
 Creature\GiantSpider2\fresnelreflection.blp
 Creature\GiantSpider\GiantSpider.blp
 Creature\GiantSpider\GiantSpider.M2
+Creature\Giraffe\giraffe.m2
+Creature\Giraffe\giraffeskindark.blp
+Creature\Giraffe\giraffeskinspotted.blp
+Creature\Giraffe\giraffeskinstriped.blp
 Creature\gnoll2\gnoll2_3886653.blp
 Creature\Gnoll2Caster\gnoll2caster.m2
 Creature\Gnoll2Caster\gnoll2caster_4061851.blp
@@ -7540,6 +7577,10 @@ Creature\Jaina\jaina2.blp
 Creature\Jaina\jaina2_eyeglow.blp
 Creature\Jaina\jaina2_hairwhite.blp
 Creature\Jaina\jainaproudmore_shoulders.blp
+Creature\JunkerSlime\7fx_chunky_soft_a.blp
+Creature\JunkerSlime\armorreflect4.blp
+Creature\JunkerSlime\junkerslime_4_2492637.blp
+Creature\JunkerSlime\waterdrops_256x256_a.blp
 Creature\KeeperoftheGrove\KeeperLeaves2.blp
 Creature\KeeperoftheGrove\KeeperLeavesCorrupted2.blp
 Creature\KeeperoftheGrove\KeeperoftheGrove.M2
@@ -7608,9 +7649,12 @@ Creature\LadySylvanasWindrunner\LADYSYLVANASWINDRUNNER_01_GLOW.BLP
 Creature\LadySylvanasWindrunner\LadySylvanasWindrunner_02.blp
 Creature\Lasher\lasher.m2
 Creature\Lasher\lasherskin.blp
+Creature\Lasher\lasherskinblack.blp
 Creature\Lasher\lasherskinblue.blp
+Creature\Lasher\lasherskinindigo.blp
 Creature\Lasher\lasherskinorange.blp
 Creature\Lasher\lasherskinred.blp
+Creature\Lasher\lasherskinturquoise.blp
 Creature\Lasher\lasherskinviolet.blp
 Creature\LavaTarantula\fresnelreflection.blp
 Creature\LavaTarantula\LavaTarantula.blp
@@ -7624,6 +7668,17 @@ Creature\Lich2\lich2_gold.blp
 Creature\Lich2\smoke_loose_02_256_blend_contrast.blp
 Creature\Lich2\wispymagic_necroblur_a.blp
 Creature\Lich\lich.m2
+Creature\LightningWorg\lightning.blp
+Creature\LightningWorg\lightningburst_quadbw.blp
+Creature\LightningWorg\lightningworg.m2
+Creature\LightningWorg\lightningworg_black.blp
+Creature\LightningWorg\lightningworg_darkblue.blp
+Creature\LightningWorg\lightningworg_fx.blp
+Creature\LightningWorg\lightningworg_gray.blp
+Creature\LightningWorg\lightningworg_lightblue.blp
+Creature\LightningWorg\lightningworg_red.blp
+Creature\LightningWorg\lightningworg_white.blp
+Creature\LightningWorg\orbreflectbright.blp
 Creature\Lion\Lion.M2
 Creature\Lion\LionSkinBlack.blp
 Creature\Lion\LionSkinGold.BLP
@@ -7795,9 +7850,15 @@ Creature\NightmareDragon\nightmaredragon_wings_rot.blp
 Creature\NightmareDragon\nightmaredragon_wings_ysondre.blp
 Creature\NightmareDragon\nightmaredragon_ysondre.blp
 Creature\Nightsaber2\armorreflect_hard.blp
+Creature\Nightsaber\armorreflect3_horde.blp
+Creature\Nightsaber\nightsaber.blp
 Creature\Nightsaber\nightsaber.m2
 Creature\Nightsaber\nightsaber2yellow.blp
+Creature\Nightsaber\nightsaber_brown.blp
+Creature\Nightsaber\nightsaber_dark.blp
+Creature\Nightsaber\nightsaber_light.blp
 Creature\Nightsaber\nightsaberbrown.blp
+Creature\Nightsaber\nightsaberLegion.m2
 Creature\Nightsaber\nightsaberpurple.blp
 Creature\Nightsaber\nightsaberwhite.blp
 Creature\ObsidianDestroyer2\armorreflect4.blp
@@ -7930,6 +7991,7 @@ Creature\RidingHorse\alliancepvpmountred3.blp
 Creature\RidingHorse\alliancepvpmountsilver3.blp
 Creature\RidingHorse\banner001_kultiran.blp
 Creature\RidingHorse\horsemultisaddle_donkey.blp
+Creature\RidingHorse\lovely_saddle.blp
 Creature\RidingHorse\packmule.m2
 Creature\RidingHorse\PvPRidingHorseSkinBeige.blp
 Creature\RidingHorse\PvPRidingHorseSkinBlack.blp
@@ -7941,8 +8003,10 @@ Creature\RidingHorse\ridinghorseskinblack.blp
 Creature\RidingHorse\ridinghorseskinbrown.blp
 Creature\RidingHorse\ridinghorseskinchestnut.blp
 Creature\RidingHorse\ridinghorseskinpalamino.blp
+Creature\RidingHorse\RidingHorseSkinPinkPony.blp
 Creature\RidingHorse\ridinghorseskinpinto.blp
 Creature\RidingHorse\ridinghorseskinwhite.blp
+Creature\RidingHorse\saddle005_base.blp
 Creature\RidingHorse\saddle008_base.blp
 Creature\RidingHorse\stormwindsaddle.blp
 Creature\RidingHorse\TourneyRidingHorseSkinGrey.blp
@@ -8322,7 +8386,24 @@ Creature\WarnightSaberMount\armorreflect4.blp
 Creature\WarnightSaberMount\WarnightSabermount.M2
 Creature\WarnightSaberMount\warnightsabermount_armor.blp
 Creature\WarnightSaberMount\WARNIGHTSABERMOUNT_CREATURE.blp
+Creature\WaterElemental2\8fx_water_scroll_alpha2.blp
+Creature\WaterElemental2\8fx_water_scroll_alphadissolve.blp
+Creature\WaterElemental2\fresnelreflect3.blp
+Creature\WaterElemental2\oldglass.blp
+Creature\WaterElemental2\smoke_loose_02_256_blend_contrast.blp
+Creature\WaterElemental2\water_hard_blendadd_edioted2.blp
+Creature\WaterElemental2\waterdrops_256x256_2.blp
+Creature\WaterElemental2\waterelemental2_10_2168563.blp
+Creature\WaterElemental2\waterelemental2_8_2168194.blp
+Creature\WaterElemental2\waterelemental2_9_2168195.blp
 Creature\WaterElemental\Fire_Bright_Mod2x_A_blue.blp
+Creature\WaterElemental\waterelemental.m2
+Creature\WaterElemental\waterelemental2_asset_3.blp
+Creature\WaterElemental\waterelemental2_asset_4.blp
+Creature\WaterElemental\waterelementalgreenskin.blp
+Creature\WaterElemental\waterelementalpurpleskin.blp
+Creature\WaterElemental\waterelementalskin.blp
+Creature\WaterElemental\waterSpray5.blp
 Creature\Wendigo2\armorreflect4.blp
 Creature\Wendigo\Wendigo.M2
 Creature\Wendigo\WendigoSkinBlack.blp
@@ -20188,6 +20269,7 @@ Textures\BakedNpcTextures\Ethanravencroft.blp
 Textures\BakedNpcTextures\evilchromie.blp
 Textures\BakedNpcTextures\Evokerdagesh.blp
 Textures\BakedNpcTextures\Expeditioncleric1.blp
+Textures\BakedNpcTextures\Expeditioncleric2.blp
 Textures\BakedNpcTextures\Expeditioncommando1.blp
 Textures\BakedNpcTextures\expeditioncommando2.blp
 Textures\BakedNpcTextures\Expeditionofficer1.blp
@@ -21612,6 +21694,7 @@ World\Generic\HUMAN\PASSIVE DOODADS\VIALS\WHITERINGNOISE128.BLP
 World\Generic\HUMAN\PASSIVE DOODADS\Wardrobe\DuskwoodWardrobe01.M2
 World\Generic\HUMAN\PASSIVE DOODADS\Woodendummies\StormwindWoodendummy01.M2
 World\Generic\NightElf\Passive Doodads\HippogryphRoost\hippogryphroost.m2
+World\Generic\NightElf\Passive Doodads\totems\warningstatue02.blp
 World\Generic\OGRE\PASSIVE DOODADS\Torches\PIXIES1.BLP
 World\Generic\Orc\passive doodads\HordeBanners\HordeBanner01.M2
 World\Generic\Orc\passive doodads\HordeBanners\HordeBanner02.m2
