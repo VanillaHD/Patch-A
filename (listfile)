@@ -6666,6 +6666,7 @@ Creature\AncientProtector\AncientProtectorPurple.blp
 Creature\AncientSeaTurtle\AncientSeaTurtle.blp
 Creature\AncientSeaTurtle\AncientSeaTurtle.M2
 Creature\Anubisath\Anubisath.M2
+Creature\Anubisath\AnubisathSkin01.blp
 Creature\ArathiLynx\arathilynx.m2
 Creature\ArathiLynx\arathilynx_5635017.blp
 Creature\ArathiLynx\arathilynx_5689862.blp
@@ -7195,6 +7196,13 @@ Creature\Dryad\DryadskinCorrupted.blp
 Creature\Dryad\Dryadskinfrost.blp
 Creature\Dryad\Dryadskingreen.blp
 Creature\Dryad\DryadSkinpurple.blp
+Creature\Duck\armorreflect4.blp
+Creature\Duck\duck.m2
+Creature\Duck\DuckBrown.blp
+Creature\Duck\DuckSkin.blp
+Creature\DuckBaby\duckbaby.m2
+Creature\DuckBaby\DuckBabyBrown.blp
+Creature\DuckBaby\DuckBabySkin.blp
 Creature\ElementalEarth2\arcane_wisps_desat_04.blp
 Creature\ElementalEarth2\elementalearth.m2
 Creature\ElementalEarth2\nex_envmap01p.blp
@@ -7600,6 +7608,10 @@ Creature\HorseHighElf\paladinmount_purple.blp
 Creature\HorseHighElf\paladinmount_red.blp
 Creature\HorseHighElf\paladinmount_Silverblue.blp
 Creature\HorseHighElf\paladinmount_yellow.blp
+Creature\HorseKulTiran\armorreflect_rainbow.blp
+Creature\HorseKulTiran\horsekultiran.blp
+Creature\HorseKulTiran\horsekultiran.m2
+Creature\HorseKulTiran\horsekultiran_armor.blp
 Creature\HumanFemaleKid2\armorreflect_hard.blp
 Creature\HumanFemaleKid\humanfemalekid.m2
 Creature\HumanFemaleKid\humanfemalekidcitydress.blp
@@ -7677,6 +7689,11 @@ Creature\KeeperoftheGrove\KeeperOfTheGroveSkinCorrupted2.blp
 Creature\Khadgar2\armorreflect_rainbow.blp
 Creature\Khadgar2\khadgar2.blp
 Creature\Khadgar2\khadgar2.m2
+Creature\Kilrogg\kilrogg.m2
+Creature\Kilrogg\kilroggdeadeye.blp
+Creature\Kilrogg\kilroggFace.blp
+Creature\Kilrogg\KilroggGear.blp
+Creature\Kilrogg\orbreflect_rainbow.blp
 Creature\Kobold\kobold.m2
 Creature\Kobold\koboldmale_body_pale.blp
 Creature\Kobold\koboldmale_body_palegrey.blp
@@ -8089,6 +8106,9 @@ Creature\Ram\PvPRidingRamSkinStormPike.blp
 Creature\Ram\PvPRidingRamSkinStormPike_02.blp
 Creature\Ram\PvPRidingRamSkinWhite.blp
 Creature\Ram\PvPRidingRamSkinWhite_02.blp
+Creature\Ram\ram.m2
+Creature\Ram\ramskinblack.blp
+Creature\Ram\ramskinwhite.blp
 Creature\Raptor2\armorreflect4.blp
 Creature\Raptor2\OrbReflectBright.blp
 Creature\Raptor2\viciouswarraptor1.blp
@@ -8196,10 +8216,15 @@ Creature\RidingUndeadWarhorse\skeletalwarhorse2_02_red.blp
 Creature\RidingUndeadWarhorse\skeletalwarhorse2_02_white.blp
 Creature\RidingUndeadWarhorse\smoke02_flip.blp
 Creature\RidingUndeadWarhorse\smoke02a.blp
+Creature\Salamander\salamanderhunterarmorblue.blp
+Creature\Salamander\salamanderhunterarmordark.blp
+Creature\Salamander\salamanderhunterarmordarkred.blp
 Creature\Salamander\salamanderhunterarmorfire.blp
 Creature\Salamander\salamanderhunterarmorgrey.blp
 Creature\Salamander\SalamanderMale.m2
 Creature\Salamander\SalamanderMaleSkinBlack.blp
+Creature\Salamander\SalamanderMaleSkinBlue.blp
+Creature\Salamander\SalamanderMaleSkinDarkRed.blp
 Creature\Salamander\SalamanderMaleSkinRed.blp
 Creature\SalamanderHunter\armorreflect4.blp
 Creature\SalamanderHunter\chromereflect.blp
@@ -8439,6 +8464,8 @@ Creature\Titanfemale2\nex_envmap01t.blp
 Creature\TitanFemale\TitanFemale.M2
 Creature\TitanFemale\TitanFemaleSkin_01.blp
 Creature\TitanFemale\TitanFemaleskinBronze1.blp
+Creature\TitanMale\titanmale.blp
+Creature\TitanMale\titanmale.m2
 Creature\Tolvir\armorreflect_hard.blp
 Creature\Tolvir\orbreflect.blp
 Creature\Tolvir\tolvir3blue.blp
@@ -8537,6 +8564,7 @@ Creature\WarHorse\pvpwarhorseeyeglow.blp
 Creature\WarHorse\pvpwarhorseold.m2
 Creature\WarHorse\WarHorse.m2
 Creature\WarHorse\warhorseally.blp
+Creature\WarHorse\warhorsescarlet.blp
 Creature\WarHorse\WarhorseScarletPVP.blp
 Creature\WarlockMount\7fx_nightmare_creatureshader_02.blp
 Creature\WarlockMount\arcane_wisps_desat_02.blp
@@ -12988,6 +13016,7 @@ Textures\BakedNpcTextures\archwizard.blp
 Textures\BakedNpcTextures\ariden.blp
 Textures\BakedNpcTextures\Arthur.blp
 Textures\BakedNpcTextures\ashbeard.blp
+Textures\BakedNpcTextures\assistantsteamflare.blp
 Textures\BakedNpcTextures\ASTALOR.blp
 Textures\BakedNpcTextures\avenant.blp
 Textures\BakedNpcTextures\Avram.blp
@@ -13075,6 +13104,7 @@ Textures\BakedNpcTextures\Blacksmithtorenn.blp
 Textures\BakedNpcTextures\blackthorn.blp
 Textures\BakedNpcTextures\blackthorn2.blp
 Textures\BakedNpcTextures\blackwell.blp
+Textures\BakedNpcTextures\BleedingGrunt.blp
 Textures\BakedNpcTextures\bloodfist.blp
 Textures\BakedNpcTextures\BorrinGloombeard.blp
 Textures\BakedNpcTextures\Bovanwindtotem.blp
@@ -20840,6 +20870,7 @@ Textures\BakedNpcTextures\fainriel.blp
 Textures\BakedNpcTextures\FaradWrightsow.blp
 Textures\BakedNpcTextures\farenia.blp
 Textures\BakedNpcTextures\Fargosh.blp
+Textures\BakedNpcTextures\FarseerSarno.blp
 Textures\BakedNpcTextures\fb0f2ac53adc57c3a7f08031dec0d552.blp
 Textures\BakedNpcTextures\fb402f84faea4dbb151af3e7d7b8a8a6.blp
 Textures\BakedNpcTextures\fba681adb5d2dc866984d62e45978d4a.blp
@@ -20875,6 +20906,7 @@ Textures\BakedNpcTextures\Footwoman1.blp
 Textures\BakedNpcTextures\Footwoman2.blp
 Textures\BakedNpcTextures\ForemanTanoth.blp
 Textures\BakedNpcTextures\Forgottenkeeper.blp
+Textures\BakedNpcTextures\ForsakenWarlock.blp
 Textures\BakedNpcTextures\frigthunderforge.blp
 Textures\BakedNpcTextures\frostmaneacolyte.blp
 Textures\BakedNpcTextures\Frostmaneambusher1.blp
@@ -20904,6 +20936,7 @@ Textures\BakedNpcTextures\goldtoothgary.blp
 Textures\BakedNpcTextures\Golsh.blp
 Textures\BakedNpcTextures\goriand.blp
 Textures\BakedNpcTextures\grandinquis.blp
+Textures\BakedNpcTextures\Grexx.blp
 Textures\BakedNpcTextures\Greymanearbalest1.blp
 Textures\BakedNpcTextures\Greymanearbalest2.blp
 Textures\BakedNpcTextures\Greymanecleric.blp
@@ -20931,6 +20964,7 @@ Textures\BakedNpcTextures\Greymanetaskmaster2.blp
 Textures\BakedNpcTextures\Greymanewatcher1.blp
 Textures\BakedNpcTextures\Greymanewatcher2.blp
 Textures\BakedNpcTextures\grida.blp
+Textures\BakedNpcTextures\GrimtotemDruid.blp
 Textures\BakedNpcTextures\groundskeeper.blp
 Textures\BakedNpcTextures\Grumnirbattlebeard.blp
 Textures\BakedNpcTextures\Gunther.blp
@@ -20965,6 +20999,7 @@ Textures\BakedNpcTextures\Hatewarden.blp
 Textures\BakedNpcTextures\Hatewatcher.blp
 Textures\BakedNpcTextures\Hatewatcher2.blp
 Textures\BakedNpcTextures\Hazeluppel.blp
+Textures\BakedNpcTextures\Hefeni.blp
 Textures\BakedNpcTextures\Helffranger1.blp
 Textures\BakedNpcTextures\Helffranger2.blp
 Textures\BakedNpcTextures\Helfmranger1.blp
@@ -21085,6 +21120,7 @@ Textures\BakedNpcTextures\Marlonias.blp
 Textures\BakedNpcTextures\Marshalmagnus.blp
 Textures\BakedNpcTextures\Mathildabeckett.blp
 Textures\BakedNpcTextures\Mattholtz.blp
+Textures\BakedNpcTextures\Mechanickix.blp
 Textures\BakedNpcTextures\Mehtahnzehawkdreamer.blp
 Textures\BakedNpcTextures\Mejazi.blp
 Textures\BakedNpcTextures\Melanion.blp
@@ -21110,10 +21146,12 @@ Textures\BakedNpcTextures\mysteryman2.blp
 Textures\BakedNpcTextures\Nazzfirecracker.blp
 Textures\BakedNpcTextures\Nelfrangerspecial.blp
 Textures\BakedNpcTextures\Nelfrangerspecial2.blp
+Textures\BakedNpcTextures\NethercallerMahlgus.blp
 Textures\BakedNpcTextures\Nightelfalpha.blp
 Textures\BakedNpcTextures\nightelfarcher.blp
 Textures\BakedNpcTextures\nightelfarcher2.blp
 Textures\BakedNpcTextures\nightelffemaleskin.blp
+Textures\BakedNpcTextures\Nijima.blp
 Textures\BakedNpcTextures\niniel.blp
 Textures\BakedNpcTextures\nirenia.blp
 Textures\BakedNpcTextures\Nord1.blp
@@ -21223,6 +21261,14 @@ Textures\BakedNpcTextures\SpeakerGanhota.blp
 Textures\BakedNpcTextures\speakerganzih.blp
 Textures\BakedNpcTextures\spellblade.blp
 Textures\BakedNpcTextures\stella.blp
+Textures\BakedNpcTextures\Stormbreaker1.blp
+Textures\BakedNpcTextures\Stormbreaker2.blp
+Textures\BakedNpcTextures\Stormbreaker3.blp
+Textures\BakedNpcTextures\Stormfirecaller.blp
+Textures\BakedNpcTextures\StormreaverAcolyte.blp
+Textures\BakedNpcTextures\Stormreaverdrone.blp
+Textures\BakedNpcTextures\stormreaverravager.blp
+Textures\BakedNpcTextures\StormreaverStormblade.blp
 Textures\BakedNpcTextures\Surveyorbronzehorn.blp
 Textures\BakedNpcTextures\Sutherland.blp
 Textures\BakedNpcTextures\Sylvanas2.blp
@@ -21246,6 +21292,7 @@ Textures\BakedNpcTextures\Teezledual.blp
 Textures\BakedNpcTextures\Tennerpipegadge.blp
 Textures\BakedNpcTextures\Tessgreymane.blp
 Textures\BakedNpcTextures\thalion.blp
+Textures\BakedNpcTextures\ThunderlordDiva.blp
 Textures\BakedNpcTextures\Tinker_Arkes_0.blp
 Textures\BakedNpcTextures\Tinubi.blp
 Textures\BakedNpcTextures\tiriel.blp
@@ -21312,4 +21359,5 @@ Textures\BakedNpcTextures\ZarethTerrorblade.blp
 Textures\BakedNpcTextures\zealot.blp
 Textures\BakedNpcTextures\Zimbwaba.blp
 Textures\BakedNpcTextures\Zinjashi.blp
+Textures\BakedNpcTextures\Zohze.blp
 Textures\BakedNpcTextures\Zulrogg.blp
